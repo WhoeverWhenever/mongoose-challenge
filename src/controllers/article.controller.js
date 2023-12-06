@@ -84,7 +84,6 @@ export const deleteArticleById = async (req, res, next) => {
     const articleId = req.params.id;
     const article = await Article.findById(articleId)
       .populate("owner");
-    console.log(article.owner.numberOfArticles);
     article.owner.numberOfArticles -= 1;
     await article.owner.save();
     article.deleteOne();
