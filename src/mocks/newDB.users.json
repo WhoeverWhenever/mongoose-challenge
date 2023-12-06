@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "657062afa1c646eeb745fda5"
+  },
+  "firstName": "Oliver",
+  "lastName": "Lewengardten",
+  "email": "lewen@example.com",
+  "role": "guest",
+  "age": 40,
+  "numberOfArticles": 1,
+  "createdAt": {
+    "$date": "2023-12-06T12:01:51.716Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:14:32.130Z"
+  },
+  "fullName": "Oliver Lewengardten"
+},
+{
+  "_id": {
+    "$oid": "657062e5a1c646eeb745fda7"
+  },
+  "firstName": "Hisuri",
+  "lastName": "Tachikomo",
+  "email": "tach1komo@example.com",
+  "role": "admin",
+  "age": 27,
+  "numberOfArticles": 1,
+  "createdAt": {
+    "$date": "2023-12-06T12:02:45.556Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:15:06.602Z"
+  },
+  "fullName": "Hisuri Tachikomo"
+},
+{
+  "_id": {
+    "$oid": "65706313a1c646eeb745fda9"
+  },
+  "firstName": "Mandy",
+  "lastName": "Smith",
+  "email": "m4ndy@example.com",
+  "role": "writer",
+  "age": 24,
+  "numberOfArticles": 2,
+  "createdAt": {
+    "$date": "2023-12-06T12:03:31.919Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:43:28.586Z"
+  },
+  "fullName": "Mandy Smith"
+},
+{
+  "_id": {
+    "$oid": "65706333a1c646eeb745fdab"
+  },
+  "firstName": "Samantha",
+  "lastName": "Claus",
+  "email": "samclaus@example.com",
+  "role": "guest",
+  "age": 31,
+  "numberOfArticles": 1,
+  "createdAt": {
+    "$date": "2023-12-06T12:04:03.820Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:17:21.337Z"
+  },
+  "fullName": "Samantha Claus"
+},
+{
+  "_id": {
+    "$oid": "65706372a1c646eeb745fdad"
+  },
+  "firstName": "Silvio",
+  "lastName": "Marchetti",
+  "email": "silversilvio@example.com",
+  "role": "writer",
+  "age": 25,
+  "numberOfArticles": 2,
+  "createdAt": {
+    "$date": "2023-12-06T12:05:06.530Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:44:30.523Z"
+  },
+  "fullName": "Silvio Marchetti"
+},
+{
+  "_id": {
+    "$oid": "657063ada1c646eeb745fdaf"
+  },
+  "firstName": "Melody",
+  "lastName": "Black",
+  "email": "blackmel@example.com",
+  "role": "guest",
+  "age": 21,
+  "numberOfArticles": 1,
+  "createdAt": {
+    "$date": "2023-12-06T12:06:05.364Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:18:33.847Z"
+  },
+  "fullName": "Melody Black"
+},
+{
+  "_id": {
+    "$oid": "657063d9a1c646eeb745fdb1"
+  },
+  "firstName": "Danzel",
+  "lastName": "Doombris",
+  "email": "d00mdanzel@example.com",
+  "role": "guest",
+  "age": 35,
+  "numberOfArticles": 1,
+  "createdAt": {
+    "$date": "2023-12-06T12:06:49.285Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:19:02.944Z"
+  },
+  "fullName": "Danzel Doombris"
+},
+{
+  "_id": {
+    "$oid": "65706430a1c646eeb745fdb3"
+  },
+  "firstName": "Lucy",
+  "lastName": "Marquoi",
+  "email": "marquoil@example.com",
+  "role": "writer",
+  "age": 33,
+  "numberOfArticles": 3,
+  "createdAt": {
+    "$date": "2023-12-06T12:08:16.197Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:47:14.264Z"
+  },
+  "fullName": "Lucy Marquoi"
+},
+{
+  "_id": {
+    "$oid": "6570645ca1c646eeb745fdb5"
+  },
+  "firstName": "Stan",
+  "lastName": "Mathers",
+  "email": "stan@example.com",
+  "role": "guest",
+  "age": 41,
+  "numberOfArticles": 1,
+  "createdAt": {
+    "$date": "2023-12-06T12:09:00.668Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:19:45.494Z"
+  },
+  "fullName": "Stan Mathers"
+},
+{
+  "_id": {
+    "$oid": "657064a2a1c646eeb745fdb7"
+  },
+  "firstName": "Triss",
+  "lastName": "Rivian",
+  "email": "trivian@example.com",
+  "role": "guest",
+  "age": 25,
+  "numberOfArticles": 1,
+  "createdAt": {
+    "$date": "2023-12-06T12:10:10.737Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:20:03.928Z"
+  },
+  "fullName": "Triss Rivian"
+},
+{
+  "_id": {
+    "$oid": "657064e1a1c646eeb745fdb9"
+  },
+  "firstName": "Bonny",
+  "lastName": "Silverhair",
+  "email": "silverhair@example.com",
+  "role": "writer",
+  "age": 52,
+  "numberOfArticles": 2,
+  "createdAt": {
+    "$date": "2023-12-06T12:11:13.059Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:38:04.526Z"
+  },
+  "fullName": "Bonny Silverhair"
+},
+{
+  "_id": {
+    "$oid": "65706518a1c646eeb745fdbb"
+  },
+  "firstName": "Mary",
+  "lastName": "Kizilema",
+  "email": "kizilemary@example.com",
+  "role": "guest",
+  "age": 43,
+  "numberOfArticles": 1,
+  "createdAt": {
+    "$date": "2023-12-06T12:12:08.819Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T12:20:44.188Z"
+  },
+  "fullName": "Mary Kizilema"
+}]

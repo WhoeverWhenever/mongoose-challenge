@@ -14,7 +14,7 @@ mongoose.connect(process.env.DB_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 })
-.catch((err) => console.error(err));
+  .catch((err) => console.error(err));
 mongoose.set('debug', true);
 
 app.use(logger('dev'));
